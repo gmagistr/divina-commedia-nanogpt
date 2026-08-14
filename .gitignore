@@ -1,0 +1,4 @@
+*.bin
+meta.pkl
+._*
+.DS_Store
